@@ -1,0 +1,11 @@
+aiohttp
+asyncpg
+disnake
+python-dotenv
+tortoise-orm
+disnake-ext-plugins @ git+https://github.com/DisnakeCommunity/disnake-ext-plugins.git
+O365
+playwright
+chat-exporter==2.5.3
+keyauth
+cryptography
